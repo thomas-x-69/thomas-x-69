@@ -1,10 +1,9 @@
 <h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Thomas Ashraf</a> <img
-src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
+src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 ### Languages and Tools:
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Pug-Dark.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jest.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SVG-Dark.svg" width="48"> 
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48">  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Atom.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CodePen-Dark.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Powershell-Dark.svg" width="48">
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg" width="48">
