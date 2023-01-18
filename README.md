@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Thomas Ashraf</a> <img
-src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Thomas Ashraf</a> <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" height="40"/></h1>
 
 ### Languages and Tools:
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Pug-Dark.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jest.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SVG-Dark.svg" width="48"> 
