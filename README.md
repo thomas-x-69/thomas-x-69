@@ -12,3 +12,4 @@
 
 
 If you like this readme file, please give me star! ❤️
+ <img src="https://visitor-badge.glitch.me/badge?page_id=thomas-x-69" alt="visitor badge"/>
