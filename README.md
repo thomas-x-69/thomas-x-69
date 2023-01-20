@@ -12,6 +12,10 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=thomas-x-69&show_icons=true&theme=radical" alt="readMe stats"/>
 
+### streaks:
+
+<img src="https://streak-stats.demolab.com/?user=thomas-x-69&theme=dark" alt="streaks"/>
+
 
 If you like this readme file, please give me star! ❤️
 
