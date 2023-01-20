@@ -8,11 +8,13 @@
 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg" width="48">
 
+### stats:
 
+<img src="https://github-readme-stats.vercel.app/api?username=thomas-x-69&show_icons=true&theme=radical" alt="readMe stats"/>
 
 
 If you like this readme file, please give me star! ❤️
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=thomas-x-69.visitor-badge&left_text=Profile%20Visits" alt="visitor badge"/>
+<img src="https://visitor-badge.glitch.me/badge?page_id=thomas-x-69.visitor-badge&left_text=Profile%20Visits" align="center" alt="visitor badge"/>
 
 
