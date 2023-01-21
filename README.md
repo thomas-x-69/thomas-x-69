@@ -22,9 +22,16 @@
 
 <img src="https://streak-stats.demolab.com/?user=thomas-x-69&theme=dark" alt="streaks"/>
 
+----
+
+### trophies:
+
+<img src="https://github-profile-trophy.vercel.app/?username=thomas-x-69&theme=gruvbox&column=7&margin-w=5" alt="streaks"/>
+
+
 
 If you like this readme file, please give me star! ❤️
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=thomas-x-69.visitor-badge&left_text=Profile%20Visits" align="center" alt="visitor badge"/>
+<img src="https://visitor-badge.glitch.me/badge?page_id=thomas-x-69.visitor-badge&style=for-the-badge&left_text=Profile%20Visits" align="center" alt="visitor badge"/>
 
 
