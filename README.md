@@ -17,8 +17,8 @@
 
 ### stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=thomas-x-69&show_icons=true&bg_color=3d2b60&text_color=b69cd1&hide_border=true&title_color=25b2ff" alt="readMe stats" />&nbsp;<img src="https://streak-stats.demolab.com?user=thomas-x-69&theme=jolly&hide_border=true" alt="streaks"/>
-<img alt="GitHub stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thomas-x-69&theme=dracula" width="700"><img alt="GitHub stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thomas-x-69&theme=dracula">
+<img src="https://github-readme-stats.vercel.app/api?username=thomas-x-69&show_icons=true&bg_color=282a36&text_color=b69cd1&hide_border=true&title_color=25b2ff" alt="readMe stats" />&nbsp;<img src="https://streak-stats.demolab.com?user=thomas-x-69&theme=dracula&hide_border=true" alt="streaks"/>
+<img alt="GitHub stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thomas-x-69&theme=dracula" width="325"><img alt="GitHub stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thomas-x-69&theme=dracula" width="670">
 ----
 
 ### trophies:
@@ -30,9 +30,6 @@
 If you like this readme file, please give me star! ❤️
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=thomas-x-69.visitor-badge&style=for-the-badge&left_text=Profile%20Visits" align="center" alt="visitor badge"/>       <img alt="GitHub followers" src="https://img.shields.io/github/followers/thomas-x-69?color=green&logo=github">
-
-
-
 
 support me
 --------
