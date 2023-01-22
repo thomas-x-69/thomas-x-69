@@ -18,12 +18,12 @@
 ### stats:
 
 <img src="https://github-readme-stats.vercel.app/api?username=thomas-x-69&show_icons=true&bg_color=282a36&text_color=b69cd1&hide_border=true&title_color=25b2ff" alt="readMe stats" />&nbsp;<img src="https://streak-stats.demolab.com?user=thomas-x-69&theme=dracula&hide_border=true" alt="streaks"/>
-<img alt="GitHub stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thomas-x-69&theme=dracula" width="325"><img alt="GitHub stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thomas-x-69&theme=dracula" width="670">
+&nbsp;<img alt="GitHub stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thomas-x-69&theme=dracula" width="329"><img alt="GitHub stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thomas-x-69&theme=dracula" width="678">
 ----
 
 ### trophies:
 
-<img src="https://github-profile-trophy.vercel.app/?username=thomas-x-69&theme=dracula&column=7&margin-w=5&no-frame=true"  alt="trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=thomas-x-69&theme=dracula&column=7&margin-w=5&no-frame=true"  width="1000" alt="trophies"/>
 
 
 
