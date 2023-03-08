@@ -54,7 +54,7 @@
   <img src="https://komarev.com/ghpvc/?username=thomas-x-69&color=673ab7&style=for-the-badge" alt="Profile Views" />
 
 </div>
-<div align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/thomas-x-69?color=green&logo=github"> <img src="https://img.shields.io/github/stars/thomas-x-69/waka-readme-stats"/>  <img src="https://img.shields.io/github/forks/thomas-x-69/waka-readme-stats"/>  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20You%20loved&style=style=flat&color=BC4E99" alt="Star Badge"/> </div>
+<div align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/thomas-x-69?color=green&logo=github"> <img src="https://img.shields.io/github/stars/thomas-x-69/waka-readme-stats"/>  <img src="https://img.shields.io/github/forks/thomas-x-69/waka-readme-stats"/>  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20You%20loved&style=style=flat&color=BC4E99" alt="Star Badge"/>  </div>
 
 <h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Languages and Tools</h3>
 <div>
@@ -90,4 +90,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=thomas-x-69&theme=dracula&column=7&margin-w=5&no-frame=true"  width="1000" alt="trophies"/>
 
 
-If you like this readme file, please give me star! ❤️
+If you like this readme file, please give me star! 
+                                                                  <br>   
+<div  align="center"><img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Star Badge" width="120"/><div/>
