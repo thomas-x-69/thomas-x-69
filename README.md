@@ -67,7 +67,7 @@
 <h3><img src="https://media.giphy.com/media/mF5eigrMBLWzN7PXpT/giphy.gif" width="30"> learning Now</h3>
 <div>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="55"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Markdown-Dark.svg" width="55">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="55">     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="55">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Dark.svg" width="55">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" width="55"> 
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="55">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="55">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="55">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="55">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg" width="55">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" width="55">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" width="55">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ThreeJS-Dark.svg" width="55">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Webpack-Dark.svg" width="55">
 
  </div>
  
