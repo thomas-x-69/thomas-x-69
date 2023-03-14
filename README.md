@@ -56,13 +56,25 @@
 </div>
 <div align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/thomas-x-69?color=green&logo=github"> <img src="https://img.shields.io/github/stars/thomas-x-69/waka-readme-stats"/>  <img src="https://img.shields.io/github/forks/thomas-x-69/waka-readme-stats"/>  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20You%20loved&style=style=flat&color=BC4E99" alt="Star Badge"/>  </div>
 
-<h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Languages and Tools</h3>
+<h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Languages and Tools (I work with)</h3>
 <div>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Pug-Dark.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Markdown-Dark.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jest.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SVG-Dark.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Regex-Dark.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48">  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Atom.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CodePen-Dark.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Powershell-Dark.svg" width="48"> 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gulp.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg" width="48">
 </div>
 
 ----
+
+
+<h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Languages and Tools (I Have Learned)</h3>
+
+<div>
+<img src="" width="48">  <img src="" width="48">  <img src="" width="48">  <img src="" width="48">  <img src="" width="48">  <img src="" width="48"> <img src="" width="48">  <img src="" width="48">  <img src="" width="48">  <img src="" width="48"> <img src="" width="48">  <img src="" width="48">  <img src="" width="48">  <img src="" width="48">  <img src="" width="48">  <img src="" width="48">  <img src="" width="48"> 
+<img src="" width="48"> <img src="" width="48">
+</div>
+
+----
+
+
 <h3><img src="https://media.giphy.com/media/mF5eigrMBLWzN7PXpT/giphy.gif" width="30"> learning Now</h3>
 <div>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="55">    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="55">     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="55">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Dark.svg" width="55">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" width="55">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="55">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg" width="55">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" width="55">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" width="55">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ThreeJS-Dark.svg" width="55">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Webpack-Dark.svg" width="55">
