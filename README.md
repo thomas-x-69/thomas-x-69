@@ -87,7 +87,7 @@
   My Stats
 </h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=thomas-x-69&show_icons=true&bg_color=282a36&text_color=b69cd1&hide_border=true&title_color=25b2ff" alt="readMe stat " width="48%"/>&nbsp;<img src="https://streak-stats.demolab.com?user=thomas-x-69&theme=dracula&hide_border=true" alt="streaks" width="51%"/><!---<img alt="GitHub stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thomas-x-69&theme=dracula" width="32.3%">--><img alt="GitHub stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thomas-x-69&theme=dracula" width="100%">
+<img src="https://github-readme-stats.vercel.app/api?username=thomas-x-69&show_icons=true&bg_color=282a36&text_color=b69cd1&hide_border=true&title_color=25b2ff" alt="readMe stat " width="48%"/>&nbsp;<img src="https://streak-stats.demolab.com?user=thomas-x-69&theme=dracula&hide_border=true" alt="streaks" width="51%"/><!---<img alt="GitHub stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thomas-x-69&theme=dracula" width="32.3%">--><img alt="GitHub stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thomas-x-69&theme=dracula" width="99%">
 
 ----
 
