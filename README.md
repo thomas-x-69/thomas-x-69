@@ -5,7 +5,7 @@
   </a>
    <a href="">
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codePen" />
-  </a>
+  </a> 
   <a href="">
      <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" />
   </a>
