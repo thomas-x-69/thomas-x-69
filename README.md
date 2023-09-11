@@ -86,7 +86,7 @@
   My Stats
 </h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=thomas-x-69&show_icons=true&bg_color=282a36&text_color=b69cd1&hide_border=true&title_color=25b2ff" alt="readMe stat " width="48%"/>&nbsp;<img src="https://streak-stats.demolab.com?user=thomas-x-69&theme=dracula&hide_border=true" alt="streaks" width="51%"/><img alt="GitHub stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thomas-x-69&theme=dracula" width="32.3%">&nbsp;<img alt="GitHub stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thomas-x-69&theme=dracula" width="66.7%">
+<img src="https://github-readme-stats.vercel.app/api?username=thomas-x-69&show_icons=true&bg_color=282a36&text_color=b69cd1&hide_border=true&title_color=25b2ff" alt="readMe stat " width="48%"/>&nbsp;<img src="https://streak-stats.demolab.com?user=thomas-x-69&theme=dracula&hide_border=true" alt="" width="51%"/><img alt="GitHub stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thomas-x-69&theme=dracula" width="32.3%">&nbsp;<img alt="GitHub stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thomas-x-69&theme=dracula" width="66.7%">
 
 ----
 
@@ -97,6 +97,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=thomas-x-69&theme=dracula&column=7&margin-w=5&no-frame=true"  width="1000" alt="trophies"/>
 
 
-If you like this readme file, please give me star! 
+If you like this readme file, please give me a star! 
                                                                   <br>   
 <div  align="center"><img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Star Badge" width="120"/><div/>
